@@ -8,6 +8,6 @@ The LTF schema goes as follows:
 LTF_Doc:
   -	Properties: id / tokenization / grammar / raw_text_char_length / raw_text_md5 / list of segments
   -	Each Segment:
-    o	Properties: id / start_char / end_char / original_text / list of tokens
-    o	Each Token:
+    -	Properties: id / start_char / end_char / original_text / list of tokens
+    - Each Token:
       - Properties: id / pos / morph / start_char / end_char / value (text inside token)
