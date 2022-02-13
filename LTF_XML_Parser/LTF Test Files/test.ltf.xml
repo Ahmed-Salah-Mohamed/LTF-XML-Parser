@@ -1,0 +1,140 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE LCTL_TEXT SYSTEM "ltf.v1.5.dtd">
+<LCTL_TEXT>
+<DOC id="SOM_NW_000001_20140708_G00200APA" tokenization="tokenization_parameters.v4.0" grammar="none" raw_text_char_length="720" raw_text_md5="657e42a480e61ce73461290ee76dca13">
+<TEXT>
+<SEG id="segment-0" start_char="0" end_char="272">
+<ORIGINAL_TEXT>Maxkamadda milatariga darajada koowaad ee dawladda Soomaalliya ayaa xukun dil ah shalay ku riday Caawiye Axmed Jaamac oo 25 jir ah oo lagu helay inuu ku lug lahaa qaraxii 8-dii bishii Nofember ee sannadkii hore lala beegsaday Huteelka Maka Al-Mukarama ee magaalada Mudishu.</ORIGINAL_TEXT>
+<TOKEN id="token-0-0" pos="word" morph="none" start_char="0" end_char="9">Maxkamadda</TOKEN>
+<TOKEN id="token-0-1" pos="word" morph="none" start_char="11" end_char="20">milatariga</TOKEN>
+<TOKEN id="token-0-2" pos="word" morph="none" start_char="22" end_char="29">darajada</TOKEN>
+<TOKEN id="token-0-3" pos="word" morph="none" start_char="31" end_char="37">koowaad</TOKEN>
+<TOKEN id="token-0-4" pos="word" morph="none" start_char="39" end_char="40">ee</TOKEN>
+<TOKEN id="token-0-5" pos="word" morph="none" start_char="42" end_char="49">dawladda</TOKEN>
+<TOKEN id="token-0-6" pos="word" morph="none" start_char="51" end_char="61">Soomaalliya</TOKEN>
+<TOKEN id="token-0-7" pos="word" morph="none" start_char="63" end_char="66">ayaa</TOKEN>
+<TOKEN id="token-0-8" pos="word" morph="none" start_char="68" end_char="72">xukun</TOKEN>
+<TOKEN id="token-0-9" pos="word" morph="none" start_char="74" end_char="76">dil</TOKEN>
+<TOKEN id="token-0-10" pos="word" morph="none" start_char="78" end_char="79">ah</TOKEN>
+<TOKEN id="token-0-11" pos="word" morph="none" start_char="81" end_char="86">shalay</TOKEN>
+<TOKEN id="token-0-12" pos="word" morph="none" start_char="88" end_char="89">ku</TOKEN>
+<TOKEN id="token-0-13" pos="word" morph="none" start_char="91" end_char="95">riday</TOKEN>
+<TOKEN id="token-0-14" pos="word" morph="none" start_char="97" end_char="103">Caawiye</TOKEN>
+<TOKEN id="token-0-15" pos="word" morph="none" start_char="105" end_char="109">Axmed</TOKEN>
+<TOKEN id="token-0-16" pos="word" morph="none" start_char="111" end_char="116">Jaamac</TOKEN>
+<TOKEN id="token-0-17" pos="word" morph="none" start_char="118" end_char="119">oo</TOKEN>
+<TOKEN id="token-0-18" pos="word" morph="none" start_char="121" end_char="122">25</TOKEN>
+<TOKEN id="token-0-19" pos="word" morph="none" start_char="124" end_char="126">jir</TOKEN>
+<TOKEN id="token-0-20" pos="word" morph="none" start_char="128" end_char="129">ah</TOKEN>
+<TOKEN id="token-0-21" pos="word" morph="none" start_char="131" end_char="132">oo</TOKEN>
+<TOKEN id="token-0-22" pos="word" morph="none" start_char="134" end_char="137">lagu</TOKEN>
+<TOKEN id="token-0-23" pos="word" morph="none" start_char="139" end_char="143">helay</TOKEN>
+<TOKEN id="token-0-24" pos="word" morph="none" start_char="145" end_char="148">inuu</TOKEN>
+<TOKEN id="token-0-25" pos="word" morph="none" start_char="150" end_char="151">ku</TOKEN>
+<TOKEN id="token-0-26" pos="word" morph="none" start_char="153" end_char="155">lug</TOKEN>
+<TOKEN id="token-0-27" pos="word" morph="none" start_char="157" end_char="161">lahaa</TOKEN>
+<TOKEN id="token-0-28" pos="word" morph="none" start_char="163" end_char="169">qaraxii</TOKEN>
+<TOKEN id="token-0-29" pos="unknown" morph="none" start_char="171" end_char="175">8-dii</TOKEN>
+<TOKEN id="token-0-30" pos="word" morph="none" start_char="177" end_char="182">bishii</TOKEN>
+<TOKEN id="token-0-31" pos="word" morph="none" start_char="184" end_char="191">Nofember</TOKEN>
+<TOKEN id="token-0-32" pos="word" morph="none" start_char="193" end_char="194">ee</TOKEN>
+<TOKEN id="token-0-33" pos="word" morph="none" start_char="196" end_char="204">sannadkii</TOKEN>
+<TOKEN id="token-0-34" pos="word" morph="none" start_char="206" end_char="209">hore</TOKEN>
+<TOKEN id="token-0-35" pos="word" morph="none" start_char="211" end_char="214">lala</TOKEN>
+<TOKEN id="token-0-36" pos="word" morph="none" start_char="216" end_char="224">beegsaday</TOKEN>
+<TOKEN id="token-0-37" pos="word" morph="none" start_char="226" end_char="233">Huteelka</TOKEN>
+<TOKEN id="token-0-38" pos="word" morph="none" start_char="235" end_char="238">Maka</TOKEN>
+<TOKEN id="token-0-39" pos="unknown" morph="none" start_char="240" end_char="250">Al-Mukarama</TOKEN>
+<TOKEN id="token-0-40" pos="word" morph="none" start_char="252" end_char="253">ee</TOKEN>
+<TOKEN id="token-0-41" pos="word" morph="none" start_char="255" end_char="263">magaalada</TOKEN>
+<TOKEN id="token-0-42" pos="word" morph="none" start_char="265" end_char="271">Mudishu</TOKEN>
+<TOKEN id="token-0-43" pos="punct" morph="none" start_char="272" end_char="272">.</TOKEN>
+</SEG>
+<SEG id="segment-1" start_char="275" end_char="411">
+<ORIGINAL_TEXT>Ninkan ayaa la qabtay kadib markii qarax ku rakibnaa kombiyuutar Lap Top ah oo uu watay uu sidii la rabay u qarxi waayey gudaha huteelka.</ORIGINAL_TEXT>
+<TOKEN id="token-1-0" pos="word" morph="none" start_char="275" end_char="280">Ninkan</TOKEN>
+<TOKEN id="token-1-1" pos="word" morph="none" start_char="282" end_char="285">ayaa</TOKEN>
+<TOKEN id="token-1-2" pos="word" morph="none" start_char="287" end_char="288">la</TOKEN>
+<TOKEN id="token-1-3" pos="word" morph="none" start_char="290" end_char="295">qabtay</TOKEN>
+<TOKEN id="token-1-4" pos="word" morph="none" start_char="297" end_char="301">kadib</TOKEN>
+<TOKEN id="token-1-5" pos="word" morph="none" start_char="303" end_char="308">markii</TOKEN>
+<TOKEN id="token-1-6" pos="word" morph="none" start_char="310" end_char="314">qarax</TOKEN>
+<TOKEN id="token-1-7" pos="word" morph="none" start_char="316" end_char="317">ku</TOKEN>
+<TOKEN id="token-1-8" pos="word" morph="none" start_char="319" end_char="326">rakibnaa</TOKEN>
+<TOKEN id="token-1-9" pos="word" morph="none" start_char="328" end_char="338">kombiyuutar</TOKEN>
+<TOKEN id="token-1-10" pos="word" morph="none" start_char="340" end_char="342">Lap</TOKEN>
+<TOKEN id="token-1-11" pos="word" morph="none" start_char="344" end_char="346">Top</TOKEN>
+<TOKEN id="token-1-12" pos="word" morph="none" start_char="348" end_char="349">ah</TOKEN>
+<TOKEN id="token-1-13" pos="word" morph="none" start_char="351" end_char="352">oo</TOKEN>
+<TOKEN id="token-1-14" pos="word" morph="none" start_char="354" end_char="355">uu</TOKEN>
+<TOKEN id="token-1-15" pos="word" morph="none" start_char="357" end_char="361">watay</TOKEN>
+<TOKEN id="token-1-16" pos="word" morph="none" start_char="363" end_char="364">uu</TOKEN>
+<TOKEN id="token-1-17" pos="word" morph="none" start_char="366" end_char="370">sidii</TOKEN>
+<TOKEN id="token-1-18" pos="word" morph="none" start_char="372" end_char="373">la</TOKEN>
+<TOKEN id="token-1-19" pos="word" morph="none" start_char="375" end_char="379">rabay</TOKEN>
+<TOKEN id="token-1-20" pos="word" morph="none" start_char="381" end_char="381">u</TOKEN>
+<TOKEN id="token-1-21" pos="word" morph="none" start_char="383" end_char="387">qarxi</TOKEN>
+<TOKEN id="token-1-22" pos="word" morph="none" start_char="389" end_char="394">waayey</TOKEN>
+<TOKEN id="token-1-23" pos="word" morph="none" start_char="396" end_char="401">gudaha</TOKEN>
+<TOKEN id="token-1-24" pos="word" morph="none" start_char="403" end_char="410">huteelka</TOKEN>
+<TOKEN id="token-1-25" pos="punct" morph="none" start_char="411" end_char="411">.</TOKEN>
+</SEG>
+<SEG id="segment-2" start_char="414" end_char="539">
+<ORIGINAL_TEXT>Daqiiqado kadibna qarax labaad ayaa ka dhacay bannaanka Huteelka kaasi oo ay dad badan ku dhinteen kuwo kalena ku dhaawacmeen.</ORIGINAL_TEXT>
+<TOKEN id="token-2-0" pos="word" morph="none" start_char="414" end_char="422">Daqiiqado</TOKEN>
+<TOKEN id="token-2-1" pos="word" morph="none" start_char="424" end_char="430">kadibna</TOKEN>
+<TOKEN id="token-2-2" pos="word" morph="none" start_char="432" end_char="436">qarax</TOKEN>
+<TOKEN id="token-2-3" pos="word" morph="none" start_char="438" end_char="443">labaad</TOKEN>
+<TOKEN id="token-2-4" pos="word" morph="none" start_char="445" end_char="448">ayaa</TOKEN>
+<TOKEN id="token-2-5" pos="word" morph="none" start_char="450" end_char="451">ka</TOKEN>
+<TOKEN id="token-2-6" pos="word" morph="none" start_char="453" end_char="458">dhacay</TOKEN>
+<TOKEN id="token-2-7" pos="word" morph="none" start_char="460" end_char="468">bannaanka</TOKEN>
+<TOKEN id="token-2-8" pos="word" morph="none" start_char="470" end_char="477">Huteelka</TOKEN>
+<TOKEN id="token-2-9" pos="word" morph="none" start_char="479" end_char="483">kaasi</TOKEN>
+<TOKEN id="token-2-10" pos="word" morph="none" start_char="485" end_char="486">oo</TOKEN>
+<TOKEN id="token-2-11" pos="word" morph="none" start_char="488" end_char="489">ay</TOKEN>
+<TOKEN id="token-2-12" pos="word" morph="none" start_char="491" end_char="493">dad</TOKEN>
+<TOKEN id="token-2-13" pos="word" morph="none" start_char="495" end_char="499">badan</TOKEN>
+<TOKEN id="token-2-14" pos="word" morph="none" start_char="501" end_char="502">ku</TOKEN>
+<TOKEN id="token-2-15" pos="word" morph="none" start_char="504" end_char="511">dhinteen</TOKEN>
+<TOKEN id="token-2-16" pos="word" morph="none" start_char="513" end_char="516">kuwo</TOKEN>
+<TOKEN id="token-2-17" pos="word" morph="none" start_char="518" end_char="523">kalena</TOKEN>
+<TOKEN id="token-2-18" pos="word" morph="none" start_char="525" end_char="526">ku</TOKEN>
+<TOKEN id="token-2-19" pos="word" morph="none" start_char="528" end_char="538">dhaawacmeen</TOKEN>
+<TOKEN id="token-2-20" pos="punct" morph="none" start_char="539" end_char="539">.</TOKEN>
+</SEG>
+<SEG id="segment-3" start_char="542" end_char="655">
+<ORIGINAL_TEXT>Haddaba xukunkan ayaa Haaruun Macruuf uu ka waraystay Guddoomiyaha Maxkamadda Darajada Koowaad Liibaan Cali Yarow.</ORIGINAL_TEXT>
+<TOKEN id="token-3-0" pos="word" morph="none" start_char="542" end_char="548">Haddaba</TOKEN>
+<TOKEN id="token-3-1" pos="word" morph="none" start_char="550" end_char="557">xukunkan</TOKEN>
+<TOKEN id="token-3-2" pos="word" morph="none" start_char="559" end_char="562">ayaa</TOKEN>
+<TOKEN id="token-3-3" pos="word" morph="none" start_char="564" end_char="570">Haaruun</TOKEN>
+<TOKEN id="token-3-4" pos="word" morph="none" start_char="572" end_char="578">Macruuf</TOKEN>
+<TOKEN id="token-3-5" pos="word" morph="none" start_char="580" end_char="581">uu</TOKEN>
+<TOKEN id="token-3-6" pos="word" morph="none" start_char="583" end_char="584">ka</TOKEN>
+<TOKEN id="token-3-7" pos="word" morph="none" start_char="586" end_char="594">waraystay</TOKEN>
+<TOKEN id="token-3-8" pos="word" morph="none" start_char="596" end_char="607">Guddoomiyaha</TOKEN>
+<TOKEN id="token-3-9" pos="word" morph="none" start_char="609" end_char="618">Maxkamadda</TOKEN>
+<TOKEN id="token-3-10" pos="word" morph="none" start_char="620" end_char="627">Darajada</TOKEN>
+<TOKEN id="token-3-11" pos="word" morph="none" start_char="629" end_char="635">Koowaad</TOKEN>
+<TOKEN id="token-3-12" pos="word" morph="none" start_char="637" end_char="643">Liibaan</TOKEN>
+<TOKEN id="token-3-13" pos="word" morph="none" start_char="645" end_char="648">Cali</TOKEN>
+<TOKEN id="token-3-14" pos="word" morph="none" start_char="650" end_char="654">Yarow</TOKEN>
+<TOKEN id="token-3-15" pos="punct" morph="none" start_char="655" end_char="655">.</TOKEN>
+</SEG>
+<SEG id="segment-4" start_char="658" end_char="717">
+<ORIGINAL_TEXT>Waraysiga hoos ka dhagayso mil court Liiska Codadka Soo rogo</ORIGINAL_TEXT>
+<TOKEN id="token-4-0" pos="word" morph="none" start_char="658" end_char="666">Waraysiga</TOKEN>
+<TOKEN id="token-4-1" pos="word" morph="none" start_char="668" end_char="671">hoos</TOKEN>
+<TOKEN id="token-4-2" pos="word" morph="none" start_char="673" end_char="674">ka</TOKEN>
+<TOKEN id="token-4-3" pos="word" morph="none" start_char="676" end_char="683">dhagayso</TOKEN>
+<TOKEN id="token-4-4" pos="word" morph="none" start_char="685" end_char="687">mil</TOKEN>
+<TOKEN id="token-4-5" pos="word" morph="none" start_char="689" end_char="693">court</TOKEN>
+<TOKEN id="token-4-6" pos="word" morph="none" start_char="695" end_char="700">Liiska</TOKEN>
+<TOKEN id="token-4-7" pos="word" morph="none" start_char="702" end_char="708">Codadka</TOKEN>
+<TOKEN id="token-4-8" pos="word" morph="none" start_char="710" end_char="712">Soo</TOKEN>
+<TOKEN id="token-4-9" pos="word" morph="none" start_char="714" end_char="717">rogo</TOKEN>
+</SEG>
+</TEXT>
+</DOC>
+</LCTL_TEXT>
